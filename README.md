@@ -12,3 +12,6 @@ I am Peter Lembke. Software developer.
 * Blog 🏴󠁧󠁢󠁥󠁮󠁧󠁿 about the [InfoHub](https://blog.infohub.se/) project - Your private operating system in your browser
 * Blog 🇸🇪 about software development and othert technical stuff at [CharZam software](https://charzam.com/)
 * Blog 🇸🇪 about training at [Team Fakta](https://teamfakta.se/)
+
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=peterlembke&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterlembke&layout=compact" />
