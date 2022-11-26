@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**peterlembke/peterlembke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Peter Lembke. Software developer.
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=peterlembke&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 At work I’m currently working on populating MariaDb -> MongoDb as fast as possible.
+- 🔭 At home I’m currently working on learning Swift and programming on [InfoHub](https://blog.infohub.se/) in PHP/Javascript.
+- 🌱 I’m currently learning Swift and developing IOS applications.
+
+* Me at [LinkedIn](https://www.linkedin.com/in/peter-lembke-4b607293/)
+* Blog 🏴󠁧󠁢󠁥󠁮󠁧󠁿 about the [InfoHub](https://blog.infohub.se/) project - Your private operating system in your browser
+* Blog 🇸🇪 about software development and othert technical stuff at [CharZam software](https://charzam.com/)
+* Blog 🇸🇪 about training at [Team Fakta](https://teamfakta.se/)
