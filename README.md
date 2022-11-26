@@ -9,7 +9,7 @@ I am Peter Lembke. Software developer.
 - 🌱 I’m currently learning Swift and developing IOS applications.
 
 * Me at [LinkedIn](https://www.linkedin.com/in/peter-lembke-4b607293/). I am not looking for a new job.
-* Blog 🏴󠁧󠁢󠁥󠁮󠁧󠁿 about the [InfoHub](https://blog.infohub.se/) project - Your private operating system in your browser
+* Blog 🏴󠁧󠁢󠁥󠁮󠁧󠁿 about the [InfoHub](https://blog.infohub.se/) project - Your private operating system in your browser ![Infohub logo](https://github.com/peterlembke/infohub/blob/main/folder/favicon.png)
 * Blog 🇸🇪 about software development and othert technical stuff at [CharZam software](https://charzam.com/)
 * Blog 🇸🇪 about training at [Team Fakta](https://teamfakta.se/)
 
