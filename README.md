@@ -4,9 +4,9 @@ I am Peter Lembke. Software developer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=peterlembke&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 At work I’m currently working on MongoDb aggregations.
+- 🔭 At work I’m currently working on creating backup/restore software of databases and files.
 - 🔭 At home I’m currently working on programming on [InfoHub](https://blog.infohub.se/) in PHP/Javascript.
-- 🌱 I’m currently learning MongoDb and more about [Open source](https://opensource.guide/).
+- 🌱 I’m currently learning more about Junie (AI Assistant) and how to use it in my daily work.
 
 * Me at [LinkedIn](https://www.linkedin.com/in/peter-lembke-4b607293/)
 * Blog 🏴󠁧󠁢󠁥󠁮󠁧󠁿 about the [InfoHub](https://blog.infohub.se/) project - Your private operating system in your browser ![Infohub logo](https://github.com/peterlembke/infohub/blob/main/folder/favicon.png)
