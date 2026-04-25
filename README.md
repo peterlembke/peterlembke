@@ -4,7 +4,7 @@ I am Peter Lembke. Software developer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=peterlembke&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 At work I’m currently working on new features for AktuvBo Analytics.
+- 🔭 At work I’m currently working on new features for AktivBo Analytics.
 - 🔭 At home I’m currently working on programming on [InfoHub](https://blog.infohub.se/) in PHP/Javascript and Arduino/PICO projects in C++.
 - 🌱 I’m currently learning more about C++ and electronics.
 
